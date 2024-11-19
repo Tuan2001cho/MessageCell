@@ -512,7 +512,7 @@
         }
   
         return {
-          1: `${this.data.realname} 将`,
+          1: `${this.data.realname} a`,
           2: `${this.data.realname} 邀请您参与`,
           3: `${this.data.realname} 将`,
           4: `${this.data.realname} 评论了您的`,
